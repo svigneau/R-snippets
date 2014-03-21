@@ -1,4 +1,4 @@
-# This snippet queries BioMart to find mRNA Refseq Ids associated with gene symbols in mouse.
+# This snippet queries BioMart to find mRNA Refseq Ids associated with mouse gene symbols.
 
 # Load biomaRt.
 library(biomaRt)
