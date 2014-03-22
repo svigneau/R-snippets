@@ -1,4 +1,4 @@
-# This snippet illustrates how to query David from R, using the RDAVIDWebService web package.
+# This snippet illustrates how to query David from R, using the RDAVIDWebService package.
 
 # Load RDAVIDWebService.
 library("RDAVIDWebService")
