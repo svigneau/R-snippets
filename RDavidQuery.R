@@ -1,4 +1,4 @@
-# This snippet illustrates how to query David from R, using the RDAVIDWebService package.
+# This snippet illustrates how to query David from R, using the Bioconductor RDAVIDWebService package.
 
 # Load RDAVIDWebService.
 library("RDAVIDWebService")
