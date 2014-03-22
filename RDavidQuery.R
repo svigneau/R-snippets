@@ -8,7 +8,7 @@ library("RDAVIDWebService")
 david <- DAVIDWebService$new(email='yourEmail@yourEmail.org')
 
 # Define foreground and background gene lists.
-# The foreground list should be contained in the background list.
+# The foreground list should be contained within the background list.
 FG <- addList(david, myForegroundGenes, idType="REFSEQ_MRNA", listName="isClass", listType="Gene")
 BG <- addList(david, myBackgroundGenes, idType="REFSEQ_MRNA", listName="all", listType="Background")
 
