@@ -23,7 +23,7 @@ david
 setAnnotationCategories(david, c("GOTERM_BP_ALL", "GOTERM_MF_ALL", "GOTERM_CC_ALL"))
 
 # Get functional annotation chart as R object.
-FuncAnnotChart<-getFunctionalAnnotationChart(david)
+FuncAnnotChart <- getFunctionalAnnotationChart(david)
 
 # Print functional annotation chart to file.
 getFunctionalAnnotationChartFile(david, "FuncAnnotChart.tsv")
