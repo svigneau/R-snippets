@@ -21,8 +21,8 @@ barplot_format <- function (data, xlabel, ylabel) {
 #data <- c(val1, val2, val3, val4)
 
 # Labels for x and y axis
-#xlabel <- c(label1, label1, labe2, label2)
-#ylabel <- c(labela, labelb, labela, labelb)
+#xlabel <- c(label1, label2)
+#ylabel <- c(labela, labelb)
 
 # Format data
 #barplotdata <- barplot_format(data, xlabel, ylabel)
